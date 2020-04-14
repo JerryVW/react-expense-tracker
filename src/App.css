@@ -1,0 +1,10 @@
+
+body {
+  background-image: url(assets/finance-background.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  background-attachment: fixed;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
